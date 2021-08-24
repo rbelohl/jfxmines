@@ -1,4 +1,4 @@
-package uur.minesweeper;
+package rada.jfxmines;
 
 import javafx.scene.control.TableCell;
 

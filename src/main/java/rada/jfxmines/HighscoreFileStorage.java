@@ -1,4 +1,4 @@
-package uur.minesweeper;
+package rada.jfxmines;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

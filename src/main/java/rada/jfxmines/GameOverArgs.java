@@ -1,4 +1,4 @@
-package uur.minesweeper;
+package rada.jfxmines;
 
 public class GameOverArgs {
     

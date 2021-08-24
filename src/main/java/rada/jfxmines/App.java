@@ -1,4 +1,4 @@
-package uur.minesweeper;
+package rada.jfxmines;
 
 
 import java.util.List;
@@ -38,7 +38,7 @@ import javafx.scene.text.FontWeight;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 
-public class Main extends Application {
+public class App extends Application {
 
     private BorderPane rootPane;
     private MenuBar topMenu;
@@ -69,7 +69,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         try {
-            icon = new Image(getClass().getResourceAsStream("icon.png"));
+            icon = new Image(getClass().getResourceAsStream("/icon.png"));
         } catch (Exception e) {
             e.printStackTrace();
             icon = null;

@@ -1,4 +1,4 @@
-package uur.minesweeper;
+package rada.jfxmines;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.ButtonType;

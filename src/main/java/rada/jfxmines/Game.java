@@ -1,4 +1,4 @@
-package uur.minesweeper;
+package rada.jfxmines;
 
 import java.util.LinkedList;
 import java.util.List;

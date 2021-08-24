@@ -1,4 +1,4 @@
-package uur.minesweeper;
+package rada.jfxmines;
 
 
 import javafx.css.PseudoClass;
@@ -56,14 +56,14 @@ public class CellNode extends StackPane {
     
     static {
         try {
-            FLAG_IMG = new Image(CellNode.class.getResourceAsStream("flag.png"));
+            FLAG_IMG = new Image(CellNode.class.getResourceAsStream("/flag.png"));
         } catch (Exception e) {
             e.printStackTrace();
             FLAG_IMG = null;
         }
         
         try {
-            BOMB_IMG = new Image(CellNode.class.getResourceAsStream("bomb.png"));
+            BOMB_IMG = new Image(CellNode.class.getResourceAsStream("/bomb.png"));
         } catch (Exception e) {
             e.printStackTrace();
             BOMB_IMG = null;
