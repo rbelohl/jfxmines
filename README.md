@@ -4,6 +4,8 @@ Minesweeper game in JavaFX
 
 ## Compilation and execution
 
+Make sure you have Java and Maven installed.
+
 Clone the repository and create a JAR using Maven:
 
 ```
