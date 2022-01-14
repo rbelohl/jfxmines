@@ -2,6 +2,8 @@
 
 Minesweeper game in JavaFX
 
+![Minesweeper app screenshot](screenshot.png)
+
 ## Compilation and execution
 
 Make sure you have Java 11 and Maven installed.
