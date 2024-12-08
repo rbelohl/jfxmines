@@ -11,7 +11,7 @@ Make sure you have Java 11 and Maven installed.
 Clone the repository and create a JAR using Maven:
 
 ```
-git clone https://gitlab.com/rbelohlavek/jfxmines.git
+git clone https://github.com/rbelohl/jfxmines.git
 cd jfxmines
 mvn package
 ```
